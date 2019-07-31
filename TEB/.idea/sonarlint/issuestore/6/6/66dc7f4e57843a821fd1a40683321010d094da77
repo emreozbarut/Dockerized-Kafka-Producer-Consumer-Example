@@ -1,0 +1,7 @@
+
+]squid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+psquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¾Æù
+Xsquid:S3457W"AFormat specifiers should be used instead of string concatenation.(®‡ìâ
+ssquid:S2629V"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(°“ÉÝ
+ssquid:S2629W"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(®‡ìâ
+Xsquid:S3457V"AFormat specifiers should be used instead of string concatenation.(°“ÉÝ
