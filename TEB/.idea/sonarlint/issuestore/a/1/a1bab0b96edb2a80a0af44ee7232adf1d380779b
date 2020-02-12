@@ -1,0 +1,5 @@
+
+§%squid:RedundantThrowsDeclarationCheck*"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(à’ÖD
+±%squid:RedundantThrowsDeclarationCheck*"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(à’ÖD
+Nsquid:S2629+"7Use the built-in formatting to construct this argument.(Ìúœí
+Xsquid:S3457+"AFormat specifiers should be used instead of string concatenation.(Ìúœí
